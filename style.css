@@ -1,0 +1,191 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.hcontainer{
+    background-color: rgba(231, 167, 69, 0.842);
+    overflow: hidden;
+    display: flex;
+}
+.headerimg{
+    text-align: center;
+    width: 30%;
+    padding: 15px;
+    padding-top: 28px;
+}
+.headerimg img{
+    width: 100px;
+}
+.headertitle{
+    text-align: left;
+    width: 70%;
+    padding: 15px;
+    color: white;
+    font-size: 30px;
+	margin-top: 30px;
+}
+#latestnewssection h1{
+    text-align: center;
+    color: rgba(231, 167, 69, 0.842);
+    font-size: 100px;
+    margin: 0px;
+}
+#latestnewssection p{
+    text-align: center;
+    margin: 0px;
+    font-size: 30px;
+}
+#headimg{
+    overflow: hidden;
+    width: 1100px;
+    margin: 20px auto;
+}
+#headimg img{
+    width: 100%;
+}
+#whatsnew h1{
+    font-size: 50px;
+    margin-left: 120px;
+    margin-bottom: 0px;
+}
+#newtitle{
+    overflow: hidden;
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+
+}
+.container:nth-child(2) {
+    margin: 40px auto;
+}
+.titleimg{
+    width: 545px;
+    text-align: left;
+    overflow: hidden;
+}
+.titleimg img{
+    width: 100%;
+}
+.taitletaitle{
+    width: 520px;
+    text-align: left;
+    overflow: hidden;
+    margin-left: 25px;
+    margin-top: 132px;
+}
+.taitletaitle h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+}
+.taitletaitle p{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px 0;
+    color: #333;
+}
+.readmorebtn{
+    width: 300px;
+    background-color: rgba(231, 167, 69, 0.842);
+    border: none;
+    border-radius: 15px;
+    margin: 15px 0;
+}
+.readmorebtn h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+.container:nth-child(2) .readmorebtn{
+    margin-left: 220px;
+}
+.container:nth-child(2) .taitletaitle{
+    margin-left: 0px;
+    margin-right: 25px;margin-top: 180px;
+}
+#footer{
+    background-color: rgba(231, 167, 69, 0.842);
+    overflow: hidden;
+    margin-top: 50px;
+}
+#footer h2{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 50px;
+	margin-bottom: 30px;
+}
+.footericon{
+    display: inline;
+}
+.footericon ul{
+    margin-left: 395px;
+}
+.footericon ul li{
+    width: 50px;
+    float: left;
+    margin: 40px 20px;
+    list-style: none;
+    margin-top: 0px;
+}
+.container ul{
+    margin-left: 80px;
+}
+.container ul li{
+    width: 150px;
+    float: left;
+    margin: 40px 20px;
+    list-style: none;
+}
+.footerdoun{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
